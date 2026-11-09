@@ -1,0 +1,10 @@
+label,kind,L,E
+CNN-MPS,finite_size,10,-0.4976939
+CNN-MPS,finite_size,16,-0.4969140
+CNN-MPS,finite_size,20,-0.4967987
+Res.+Lanc.,point,10,-0.4976921
+Res.+Lanc.,point,16,-0.4967163
+ViT,point,20,-0.496732
+PBC PEPS,point,10,-0.49759
+OBC PEPS,point,32,-0.49648
+QRCTM,hline,,-0.49654

@@ -1,0 +1,8 @@
+# Regenerated figure outputs (reference copies live in figures/published/)
+figures/*.pdf
+!figures/J2_results_stacked.pdf
+*.png
+*.svg
+output/
+tmp/
+__pycache__/
